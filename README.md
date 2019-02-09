@@ -1,7 +1,7 @@
 ## C# + NBitcoin + QBitNinja.Client to make Bitcoin Transaction and other operations
 
 
-To make a bitcoin transaction from zero.
+To use C# making  bitcoin transaction from zero.
 
 ## Detail : 
 
