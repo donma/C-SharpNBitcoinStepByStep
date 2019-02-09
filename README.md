@@ -1,4 +1,4 @@
-## C# + NBitcoin + QBitNinja.Client to make Bitcoin Transaction and other operations
+## C# + NBitcoin + QBitNinja.Client to make Bitcoin Transaction and other operations (TestNet)
 
 
 To use C# making  bitcoin transaction from zero.
