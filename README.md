@@ -11,7 +11,7 @@ To use C# making  bitcoin transaction from zero.
 
 查詢所有收入的紀錄 : http://no2don.blogspot.com/2019/02/c-bitcoin_96.html
 
-把錢打出去(交易篇) : http://no2don.blogspot.com/2019/02/c-bitcoin_17.html
+把錢打出去(交易) : http://no2don.blogspot.com/2019/02/c-bitcoin_17.html
 
 查詢所有打幣出去的紀錄 : http://no2don.blogspot.com/2019/02/c-bitcoin_9.html
 
