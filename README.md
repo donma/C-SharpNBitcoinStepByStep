@@ -3,6 +3,9 @@
 
 To use C# making  bitcoin transaction from zero.
 
+![alt 預覽](https://github.com/donma/C-SharpNBitcoinStepByStep/blob/master/blog-image-034.jpg?raw=true)
+
+
 ## Detail : 
 
 建立，還原錢包 : http://no2don.blogspot.com/2019/02/c-bitcoin.html
