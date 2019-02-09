@@ -21,7 +21,7 @@ namespace BitcoinStepByStep
             Console.WriteLine("2) Restore Your Wallet");
             Console.WriteLine("3) Check Wallet : mvJh993ZpnVFgX4Bs9jacjFLsKPhXj3nkj Balance");
             Console.WriteLine("4) Check Wallet : mvJh993ZpnVFgX4Bs9jacjFLsKPhXj3nkj Receive");
-            Console.WriteLine("5) Start Transation : mvJh993ZpnVFgX4Bs9jacjFLsKPhXj3nkj (0.01 BTC)=> mshr22VWpq7XTTA3EhAoqoizPuqRAvZfvi");
+            Console.WriteLine("5) Start Transaction : mvJh993ZpnVFgX4Bs9jacjFLsKPhXj3nkj (0.01 BTC)=> mshr22VWpq7XTTA3EhAoqoizPuqRAvZfvi");
             Console.WriteLine("6) Check Wallet : mvJh993ZpnVFgX4Bs9jacjFLsKPhXj3nkj Send Records");
             Console.WriteLine("e) Exit");
 
